@@ -1,0 +1,110 @@
+DOCUMENT: Landmark US Supreme Court Cases — Key Holdings and Principles
+SOURCE: Public domain summaries of landmark Supreme Court decisions
+
+---
+
+CASE: Marbury v. Madison (1803)
+HOLDING: Established the principle of judicial review — the Supreme Court has the authority to review acts of Congress and declare them unconstitutional. Chief Justice John Marshall wrote: "It is emphatically the province and duty of the judicial department to say what the law is." This case established the Supreme Court as the final arbiter of constitutional interpretation.
+SIGNIFICANCE: Foundation of judicial review; any law that conflicts with the Constitution is void.
+
+---
+
+CASE: McCulloch v. Maryland (1819)
+HOLDING: Congress has implied powers not explicitly listed in the Constitution under the Necessary and Proper Clause (Article I, Section 8). The Court held that the federal government had the authority to establish a national bank, even though the Constitution does not explicitly grant this power. Maryland could not tax the federal bank.
+SIGNIFICANCE: Broad interpretation of federal power; Supremacy Clause limits state interference with federal operations.
+
+---
+
+CASE: Brown v. Board of Education (1954)
+HOLDING: Racial segregation in public schools violates the Equal Protection Clause of the Fourteenth Amendment. "Separate but equal" doctrine from Plessy v. Ferguson (1896) was overturned. Chief Justice Warren wrote that "separate educational facilities are inherently unequal."
+SIGNIFICANCE: Ended legally mandated racial segregation in public schools; landmark civil rights ruling.
+
+---
+
+CASE: Miranda v. Arizona (1966)
+HOLDING: Before police interrogate a suspect in custody, they must inform the suspect of certain constitutional rights: (1) the right to remain silent; (2) that anything said can be used against them in court; (3) the right to an attorney; (4) if unable to afford an attorney, one will be provided. These are the "Miranda rights" or "Miranda warning." Failure to provide this warning renders statements inadmissible.
+SIGNIFICANCE: Protects Fifth Amendment right against self-incrimination and Sixth Amendment right to counsel during custodial interrogation.
+
+---
+
+CASE: Roe v. Wade (1973) — Overruled by Dobbs v. Jackson (2022)
+HOLDING (historical): The Court held that the Constitution protects a woman's liberty to choose to have an abortion before fetal viability. The decision used a trimester framework and located the right in the Due Process Clause of the Fourteenth Amendment.
+NOTE: In 2022, Dobbs v. Jackson Women's Health Organization overruled Roe v. Wade, holding that the Constitution does not confer a right to abortion and returning the issue to individual states.
+
+---
+
+CASE: Dobbs v. Jackson Women's Health Organization (2022)
+HOLDING: The Constitution does not confer a right to abortion. Roe v. Wade and Planned Parenthood v. Casey were explicitly overruled. The authority to regulate abortion is returned to the people and their elected representatives in each state. Justice Alito wrote the majority opinion, finding that abortion is not deeply rooted in the nation's history and tradition.
+SIGNIFICANCE: Abortion law now varies by state; federal constitutional protection eliminated.
+
+---
+
+CASE: Mapp v. Ohio (1961)
+HOLDING: Evidence obtained in violation of the Fourth Amendment (unreasonable search and seizure) cannot be used in state criminal prosecutions. The exclusionary rule, previously applied only to federal courts, was extended to state courts through the Fourteenth Amendment.
+SIGNIFICANCE: The exclusionary rule applies to all government actors; illegally obtained evidence is inadmissible.
+
+---
+
+CASE: Gideon v. Wainwright (1963)
+HOLDING: The Sixth Amendment right to counsel is a fundamental right applicable to state courts through the Fourteenth Amendment. Any person accused of a serious crime who cannot afford an attorney must be provided one by the government.
+SIGNIFICANCE: Established the right to appointed counsel for all defendants facing serious criminal charges.
+
+---
+
+CASE: Tinker v. Des Moines (1969)
+HOLDING: Students do not "shed their constitutional rights at the schoolhouse gate." The First Amendment protects students' right to symbolic political speech (wearing black armbands to protest the Vietnam War) in public schools, as long as it does not cause substantial disruption.
+SIGNIFICANCE: Student speech in public schools is protected by the First Amendment; "substantial disruption" test.
+
+---
+
+CASE: New York Times Co. v. United States (Pentagon Papers Case) (1971)
+HOLDING: The government failed to meet the heavy burden required to justify prior restraint of the press. The Court ruled 6-3 that newspapers could publish the classified Pentagon Papers without prior government censorship.
+SIGNIFICANCE: Strong presumption against prior restraint; freedom of the press protects publication of government secrets unless national security harm is direct and immediate.
+
+---
+
+CASE: United States v. Nixon (1974)
+HOLDING: Executive privilege is not absolute. President Nixon was ordered to release the Watergate tape recordings. The Court held that while executive privilege exists, it must yield to the demonstrated specific need for evidence in a criminal trial.
+SIGNIFICANCE: No person, including the President, is above the law; executive privilege has limits.
+
+---
+
+CASE: Regents of the University of California v. Bakke (1978)
+HOLDING: Race-conscious admissions programs at universities are permissible under the Equal Protection Clause as long as they do not use rigid quotas. Diversity in higher education is a compelling state interest. The University of California's medical school admissions program using explicit racial quotas was struck down, but race could still be considered as one factor among many.
+SIGNIFICANCE: Seminal affirmative action case; racial quotas unconstitutional but race-conscious holistic review permissible (at the time).
+
+---
+
+CASE: Texas v. Johnson (1989)
+HOLDING: Burning the American flag as political protest is protected symbolic speech under the First Amendment. The government may not prohibit the expression of an idea simply because society finds it disagreeable.
+SIGNIFICANCE: Flag burning is constitutionally protected free speech; content-based speech restrictions face strict scrutiny.
+
+---
+
+CASE: Bush v. Gore (2000)
+HOLDING: The Florida Supreme Court's method of recounting ballots in the 2000 presidential election violated the Equal Protection Clause because different standards were being used in different counties. The Court stopped the recount, effectively ending the 2000 presidential election and confirming George W. Bush's victory.
+SIGNIFICANCE: Per curiam ruling explicitly limited to its unique facts; settled the 2000 presidential election controversy.
+
+---
+
+CASE: District of Columbia v. Heller (2008)
+HOLDING: The Second Amendment protects an individual's right to possess a firearm, unconnected with service in a militia, for traditionally lawful purposes such as self-defense within the home. D.C.'s handgun ban violated the Second Amendment.
+SIGNIFICANCE: Individual right to bear arms confirmed; does not affect laws banning felons, mentally ill persons, carrying in sensitive places, or conditions on commercial sale.
+
+---
+
+CASE: Citizens United v. FEC (2010)
+HOLDING: The government may not prohibit corporations and other associations from spending money in elections. Political speech does not lose First Amendment protection simply because its source is a corporation. Independent expenditures do not give rise to corruption or the appearance of corruption.
+SIGNIFICANCE: Corporations and unions have First Amendment rights to make independent political expenditures; transformed campaign finance law.
+
+---
+
+CASE: Obergefell v. Hodges (2015)
+HOLDING: The Fourteenth Amendment requires states to license same-sex marriages and to recognize same-sex marriages lawfully licensed in other states. Justice Kennedy wrote that the right to marry is a fundamental liberty under the Due Process Clause, and denial of that right to same-sex couples violates both Due Process and Equal Protection.
+SIGNIFICANCE: Same-sex marriage is a constitutional right throughout the United States.
+
+---
+
+CASE: Students for Fair Admissions v. Harvard and UNC (2023)
+HOLDING: Race-conscious admissions programs at Harvard and the University of North Carolina violate the Equal Protection Clause. The Court held that universities' interest in the benefits of diverse student bodies cannot be pursued in ways that treat individuals as members of racial groups rather than as individuals.
+SIGNIFICANCE: Affirmative action in college admissions effectively ended; race cannot be a direct factor in admissions decisions.

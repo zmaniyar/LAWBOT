@@ -1,0 +1,322 @@
+[
+  {
+    "id": "q01",
+    "query": "What does the 4th Amendment protect against?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment IV",
+    "expected_keywords": ["unreasonable searches", "seizures", "probable cause", "warrant"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q02",
+    "query": "What is the right to remain silent?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment V",
+    "expected_keywords": ["self-incrimination", "witness against himself", "compelled"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q03",
+    "query": "What did Miranda v. Arizona decide?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Miranda v. Arizona",
+    "expected_keywords": ["Miranda", "right to remain silent", "attorney", "custody", "interrogation"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q04",
+    "query": "What is freedom of speech?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment I",
+    "expected_keywords": ["freedom of speech", "Congress", "law", "abridging"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q05",
+    "query": "How many years can a president serve?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment XXII",
+    "expected_keywords": ["twice", "two", "term", "elected", "President"],
+    "category": "amendments"
+  },
+  {
+    "id": "q06",
+    "query": "What is the Supremacy Clause?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article VI",
+    "expected_keywords": ["supreme Law", "Land", "Judges", "Constitution", "Treaties"],
+    "category": "constitution"
+  },
+  {
+    "id": "q07",
+    "query": "What powers does Congress have?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article I Section 8",
+    "expected_keywords": ["lay and collect Taxes", "regulate Commerce", "declare War", "borrow Money"],
+    "category": "constitution"
+  },
+  {
+    "id": "q08",
+    "query": "What is judicial review?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Marbury v. Madison",
+    "expected_keywords": ["judicial review", "unconstitutional", "Supreme Court", "Marbury"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q09",
+    "query": "What is the right to bear arms?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment II",
+    "expected_keywords": ["bear Arms", "Militia", "infringed"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q10",
+    "query": "What does the 14th Amendment say about equal protection?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment XIV",
+    "expected_keywords": ["equal protection", "due process", "citizens", "born or naturalized"],
+    "category": "amendments"
+  },
+  {
+    "id": "q11",
+    "query": "How old do you have to be to be President?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article II Section 1",
+    "expected_keywords": ["thirty five", "natural born Citizen", "fourteen Years"],
+    "category": "constitution"
+  },
+  {
+    "id": "q12",
+    "query": "What is the process to amend the Constitution?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article V",
+    "expected_keywords": ["two thirds", "three fourths", "ratified", "Amendments", "propose"],
+    "category": "constitution"
+  },
+  {
+    "id": "q13",
+    "query": "What is double jeopardy?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment V",
+    "expected_keywords": ["twice put in jeopardy", "same offence", "double jeopardy"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q14",
+    "query": "What is the right to a speedy trial?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment VI",
+    "expected_keywords": ["speedy", "public trial", "impartial jury", "Counsel"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q15",
+    "query": "What ended racial segregation in schools?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Brown v. Board of Education",
+    "expected_keywords": ["segregation", "equal protection", "separate", "Brown", "schools"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q16",
+    "query": "What is the exclusionary rule?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Mapp v. Ohio",
+    "expected_keywords": ["exclusionary rule", "Fourth Amendment", "evidence", "inadmissible", "Mapp"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q17",
+    "query": "Who is Commander in Chief of the military?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article II Section 2",
+    "expected_keywords": ["Commander in Chief", "Army", "Navy", "President"],
+    "category": "constitution"
+  },
+  {
+    "id": "q18",
+    "query": "What is habeas corpus?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article I Section 9",
+    "expected_keywords": ["Habeas Corpus", "suspended", "Rebellion", "Invasion"],
+    "category": "constitution"
+  },
+  {
+    "id": "q19",
+    "query": "When was slavery abolished?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment XIII",
+    "expected_keywords": ["slavery", "involuntary servitude", "abolished", "1865"],
+    "category": "amendments"
+  },
+  {
+    "id": "q20",
+    "query": "What is freedom of religion?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment I",
+    "expected_keywords": ["religion", "establishment", "free exercise", "Congress"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q21",
+    "query": "What is the right to appointed counsel?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Gideon v. Wainwright",
+    "expected_keywords": ["counsel", "appointed", "attorney", "Sixth Amendment", "Gideon"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q22",
+    "query": "Can students protest in school?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Tinker v. Des Moines",
+    "expected_keywords": ["students", "schoolhouse", "First Amendment", "Tinker", "disruption"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q23",
+    "query": "What is the voting age in the United States?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment XXVI",
+    "expected_keywords": ["eighteen", "vote", "age", "citizens"],
+    "category": "amendments"
+  },
+  {
+    "id": "q24",
+    "query": "What does the Necessary and Proper Clause say?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article I Section 8",
+    "expected_keywords": ["necessary and proper", "Laws", "carrying into Execution", "Elastic Clause"],
+    "category": "constitution"
+  },
+  {
+    "id": "q25",
+    "query": "Can the government search your home without a warrant?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment IV",
+    "expected_keywords": ["warrant", "probable cause", "unreasonable searches", "persons, houses"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q26",
+    "query": "What is the Electoral College?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article II Section 1",
+    "expected_keywords": ["Electors", "Electoral", "President", "appointed"],
+    "category": "constitution"
+  },
+  {
+    "id": "q27",
+    "query": "What is executive privilege?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "United States v. Nixon",
+    "expected_keywords": ["executive privilege", "Nixon", "absolute", "tapes", "criminal trial"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q28",
+    "query": "What is the right to vote regardless of race?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment XV",
+    "expected_keywords": ["vote", "race", "color", "denied", "citizens"],
+    "category": "amendments"
+  },
+  {
+    "id": "q29",
+    "query": "What does the Second Amendment say exactly?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment II",
+    "expected_keywords": ["well regulated Militia", "bear Arms", "infringed", "free State"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q30",
+    "query": "What did Heller v. District of Columbia decide about guns?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "District of Columbia v. Heller",
+    "expected_keywords": ["individual right", "firearm", "self-defense", "home", "Heller"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q31",
+    "query": "How are senators elected?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment XVII",
+    "expected_keywords": ["Senators", "elected", "people", "six years", "direct election"],
+    "category": "amendments"
+  },
+  {
+    "id": "q32",
+    "query": "What is same-sex marriage law?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Obergefell v. Hodges",
+    "expected_keywords": ["same-sex marriage", "Fourteenth Amendment", "liberty", "Obergefell"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q33",
+    "query": "What does the 8th Amendment prohibit?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment VIII",
+    "expected_keywords": ["cruel and unusual", "punishment", "excessive bail", "fines"],
+    "category": "bill_of_rights"
+  },
+  {
+    "id": "q34",
+    "query": "What is the Full Faith and Credit Clause?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article IV Section 1",
+    "expected_keywords": ["Full Faith and Credit", "Acts", "Records", "judicial Proceedings"],
+    "category": "constitution"
+  },
+  {
+    "id": "q35",
+    "query": "Can the government prohibit flag burning?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Texas v. Johnson",
+    "expected_keywords": ["flag burning", "First Amendment", "symbolic speech", "Texas v. Johnson"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q36",
+    "query": "What is treason under the Constitution?",
+    "expected_doc": "Constitution",
+    "expected_section": "Article III Section 3",
+    "expected_keywords": ["Treason", "levying War", "Enemies", "two Witnesses", "overt Act"],
+    "category": "constitution"
+  },
+  {
+    "id": "q37",
+    "query": "What is women's right to vote?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment XIX",
+    "expected_keywords": ["vote", "sex", "denied", "citizens", "women"],
+    "category": "amendments"
+  },
+  {
+    "id": "q38",
+    "query": "What is affirmative action in college admissions?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "Students for Fair Admissions v. Harvard and UNC",
+    "expected_keywords": ["race", "admissions", "Equal Protection", "affirmative action", "Harvard"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q39",
+    "query": "What is the prior restraint doctrine in press freedom?",
+    "expected_doc": "Landmark Cases",
+    "expected_section": "New York Times Co. v. United States",
+    "expected_keywords": ["prior restraint", "press", "Pentagon Papers", "First Amendment"],
+    "category": "landmark_cases"
+  },
+  {
+    "id": "q40",
+    "query": "What is due process?",
+    "expected_doc": "Amendments",
+    "expected_section": "Amendment XIV",
+    "expected_keywords": ["due process", "life, liberty, or property", "deprived", "law"],
+    "category": "amendments"
+  }
+]

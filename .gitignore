@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+# Keep the pre-built index committed so the app works on Streamlit Cloud without rebuilding
+# data/index/

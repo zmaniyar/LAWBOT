@@ -1,0 +1,1121 @@
+{
+  "timestamp": "2026-05-04T20:32:23.320108",
+  "n_queries": 40,
+  "recall_at_5": 95.0,
+  "citation_accuracy": 87.2,
+  "no_answer_rate": 2.5,
+  "avg_keyword_coverage": 70.4,
+  "results": [
+    {
+      "id": "q01",
+      "category": "bill_of_rights",
+      "query": "What does the 4th Amendment protect against?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The Fourth Amendment protects against unreasonable searches and seizures and establishes that no warrants shall issue except upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized [Doc 3 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5790085196495056
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5064563751220703
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.49945521354675293
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4887622594833374
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.48568621277809143
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "category": "bill_of_rights",
+      "query": "What is the right to remain silent?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 4,
+      "recalled": true,
+      "cited": false,
+      "keyword_score": 0.3333333333333333,
+      "response": "The right to remain silent is part of the \"Miranda rights\" established in the case Miranda v. Arizona (1966). It means that before police interrogate a suspect in custody, they must inform the suspect of their right to remain silent, which protects the Fifth Amendment right against self-incrimination [Doc 2 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.42156198620796204
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.36932554841041565
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.3551146984100342
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.3543422222137451
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "category": "landmark_cases",
+      "query": "What did Miranda v. Arizona decide?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "Miranda v. Arizona (1966) decided that before police interrogate a suspect in custody, they must inform the suspect of certain constitutional rights: (1) the right to remain silent; (2) that anything said can be used against them in court; (3) the right to an attorney; (4) if unable to afford an attorney, one will be provided. Failure to provide this warning renders statements inadmissible. This case protects the Fifth Amendment right against self-incrimination and the Sixth Amendment right to counsel during custodial interrogation [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.6942147016525269
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.4144335687160492
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.41032034158706665
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.40551698207855225
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.3594336211681366
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "category": "bill_of_rights",
+      "query": "What is freedom of speech?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 4,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.25,
+      "response": "Freedom of speech is the right to express ideas and information without government interference, as protected by the First Amendment of the U.S. Constitution. This includes the right to engage in symbolic speech, such as political protests, as established in landmark cases like Texas v. Johnson and Tinker v. Des Moines, which affirm that such expressions are constitutionally protected as long as they do not cause substantial disruption [Doc 1 \u2014 Amendments; Doc 2 \u2014 Landmark Cases; Doc 3 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.588371753692627
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.4696879982948303
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.39987149834632874
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.36332979798316956
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "category": "amendments",
+      "query": "How many years can a president serve?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.8,
+      "response": "A president can serve a maximum of ten years. This includes being elected for two four-year terms (eight years) and potentially serving up to two additional years if they have succeeded to the presidency from the vice presidency due to the previous president's removal, death, or resignation [Doc 2 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.637969434261322
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.6167937517166138
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5103464126586914
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4876876175403595
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.4625967741012573
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "category": "constitution",
+      "query": "What is the Supremacy Clause?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The Supremacy Clause is found in Article VI of the Constitution, stating that the Constitution, and the Laws of the United States made in Pursuance thereof, and all Treaties made under the Authority of the United States, shall be the supreme Law of the Land. It mandates that judges in every State are bound by this law, regardless of any state laws to the contrary. Additionally, it specifies that all Senators, Representatives, and other officials must support the Constitution, without requiring a religious test for office [Doc 1 \u2014 Constitution].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.6438976526260376
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.5155876874923706
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4719533324241638
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.4593558609485626
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.42171216011047363
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "category": "constitution",
+      "query": "What powers does Congress have?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.5,
+      "response": "Congress has the power to lay and collect Taxes, Duties, Imposts, and Excises; to pay the Debts and provide for the common Defence and general Welfare of the United States; and to borrow Money on the credit of the United States [Doc 1 \u2014 Constitution]. Additionally, all legislative Powers are vested in Congress, which consists of a Senate and House of Representatives [Doc 3 \u2014 Constitution].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.5780448317527771
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.5277122259140015
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.513372540473938
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.5106383562088013
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4802600145339966
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "category": "landmark_cases",
+      "query": "What is judicial review?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "Judicial review is the principle that allows the Supreme Court to review acts of Congress and declare them unconstitutional. This authority was established in the case of Marbury v. Madison (1803), where Chief Justice John Marshall stated, \"It is emphatically the province and duty of the judicial department to say what the law is.\" This case set the foundation for judicial review, indicating that any law conflicting with the Constitution is void [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5896590948104858
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.4799816906452179
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.38183149695396423
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.36945807933807373
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.3686598539352417
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "category": "bill_of_rights",
+      "query": "What is the right to bear arms?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 4,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.6666666666666666,
+      "response": "The right to bear arms is protected by the Second Amendment, which states that the right of the people to keep and bear Arms shall not be infringed [Doc 1 \u2014 Amendments]. The Supreme Court case District of Columbia v. Heller (2008) confirmed that this right includes an individual's right to possess a firearm for traditionally lawful purposes, such as self-defense within the home [Doc 2 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.6841620206832886
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5514212250709534
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.38489699363708496
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.36176350712776184
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "category": "amendments",
+      "query": "What does the 14th Amendment say about equal protection?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.25,
+      "response": "The 14th Amendment states that no State shall deny to any person within its jurisdiction the equal protection of the laws [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.6178256869316101
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.6018451452255249
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5659923553466797
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5414130091667175
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.52060866355896
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "category": "constitution",
+      "query": "How old do you have to be to be President?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.0,
+      "response": "You must be at least thirty-five years old to be eligible for the office of President [Doc 1 \u2014 Constitution].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.6060799956321716
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5228660702705383
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4844494163990021
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.4267847537994385
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.39791128039360046
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "category": "constitution",
+      "query": "What is the process to amend the Constitution?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.6,
+      "response": "The process to amend the Constitution involves two main steps: proposal and ratification. Amendments can be proposed by either a two-thirds majority in both Houses of Congress or by a Convention called for by two-thirds of the state legislatures. Once proposed, an amendment must be ratified by the legislatures of three-fourths of the states or by conventions in three-fourths of the states to become part of the Constitution [Doc 1 \u2014 Constitution].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.6373581886291504
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.5252283811569214
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.5039763450622559
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.49302828311920166
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.48075488209724426
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "category": "bill_of_rights",
+      "query": "What is double jeopardy?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 1,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "Double jeopardy is the legal principle that prohibits an individual from being tried twice for the same offense. This protection is outlined in the Fifth Amendment, which states that no person shall be subject for the same offence to be twice put in jeopardy of life or limb [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.5468509793281555
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "category": "bill_of_rights",
+      "query": "What is the right to a speedy trial?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The right to a speedy trial is guaranteed by the Sixth Amendment, which states that in all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed. This amendment ensures that the accused is informed of the nature and cause of the accusation, can confront witnesses against them, has the ability to obtain witnesses in their favor, and has the assistance of counsel for their defense [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.734318733215332
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4536648392677307
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4389212429523468
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.41146692633628845
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.38596969842910767
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "category": "landmark_cases",
+      "query": "What ended racial segregation in schools?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 4,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "Racial segregation in public schools was ended by the ruling in Brown v. Board of Education (1954), which held that it violates the Equal Protection Clause of the Fourteenth Amendment and overturned the \"separate but equal\" doctrine from Plessy v. Ferguson (1896) [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.6290408372879028
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.4249682128429413
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.4211817979812622
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.41598379611968994
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "category": "landmark_cases",
+      "query": "What is the exclusionary rule?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 1,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.8,
+      "response": "The exclusionary rule is a legal principle that prohibits the use of evidence obtained in violation of the Fourth Amendment (unreasonable search and seizure) in criminal prosecutions. It was extended to state courts through the Fourteenth Amendment, meaning that illegally obtained evidence is inadmissible in all government prosecutions [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.4562298357486725
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "category": "constitution",
+      "query": "Who is Commander in Chief of the military?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 2,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States [Doc 1 \u2014 Constitution].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.4666939675807953
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.3762196898460388
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "category": "constitution",
+      "query": "What is habeas corpus?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 3,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The Privilege of the Writ of Habeas Corpus is the right to challenge unlawful detention or imprisonment. It shall not be suspended, unless in cases of rebellion or invasion when public safety may require it [Doc 1 \u2014 Constitution].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.5795311331748962
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.39910826086997986
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.35231661796569824
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "category": "amendments",
+      "query": "When was slavery abolished?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 1,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.75,
+      "response": "Slavery was abolished in 1865 with the ratification of the Thirteenth Amendment. [Doc 1 \u2014 Amendments]",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.6057708859443665
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "category": "bill_of_rights",
+      "query": "What is freedom of religion?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 2,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "Freedom of religion is the right to practice one's religion without government interference, as established by the First Amendment, which prohibits Congress from making laws that respect the establishment of religion or that prohibit the free exercise thereof [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.5839064121246338
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.3626437485218048
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "category": "landmark_cases",
+      "query": "What is the right to appointed counsel?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 3,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The right to appointed counsel is the principle that any person accused of a serious crime who cannot afford an attorney must be provided one by the government. This right is established under the Sixth Amendment and is applicable to state courts through the Fourteenth Amendment, as determined in the case Gideon v. Wainwright (1963) [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.6332553625106812
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4239036440849304
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.36635202169418335
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "category": "landmark_cases",
+      "query": "Can students protest in school?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 2,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.8,
+      "response": "Yes, students can protest in school as long as their actions do not cause substantial disruption. The First Amendment protects students' right to symbolic political speech in public schools, as established in Tinker v. Des Moines (1969) [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5672658681869507
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.3835280239582062
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "category": "amendments",
+      "query": "What is the voting age in the United States?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.5,
+      "response": "The voting age in the United States is eighteen years of age or older, as established by Amendment XXVI [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.7153311371803284
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4518603980541229
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.41867464780807495
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.41618862748146057
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.40259110927581787
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "category": "constitution",
+      "query": "What does the Necessary and Proper Clause say?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 1,
+      "recalled": true,
+      "cited": false,
+      "keyword_score": 0.0,
+      "response": "I don't have enough information in my corpus to answer this question.",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.37525224685668945
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "category": "bill_of_rights",
+      "query": "Can the government search your home without a warrant?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 2,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.75,
+      "response": "No, the government cannot search your home without a warrant, as the Fourth Amendment protects against unreasonable searches and seizures and requires warrants to be issued based on probable cause [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.5267850160598755
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.352914035320282
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "category": "constitution",
+      "query": "What is the Electoral College?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 5,
+      "recalled": false,
+      "cited": false,
+      "keyword_score": 0.0,
+      "response": "I don't have enough information in my corpus to answer this question.",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.609817624092102
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5957688093185425
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5182362198829651
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.47880077362060547
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.44460529088974
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "category": "landmark_cases",
+      "query": "What is executive privilege?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.8,
+      "response": "Executive privilege is the power of the President to withhold information from other branches of government, particularly in the context of confidentiality in communications. However, it is not absolute, as established in the case of United States v. Nixon (1974), where the Court held that executive privilege must yield to the demonstrated specific need for evidence in a criminal trial [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5983624458312988
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.4336789846420288
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4078441858291626
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.38260114192962646
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.35927265882492065
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "category": "amendments",
+      "query": "What is the right to vote regardless of race?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The right to vote regardless of race is established in Amendment XV, which states that the right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.7850452065467834
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5630283355712891
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5555831789970398
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4903026819229126
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4376170039176941
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "category": "bill_of_rights",
+      "query": "What does the Second Amendment say exactly?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The Second Amendment states: \"A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.\" [Doc 2 \u2014 Amendments]",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.6513526439666748
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.6325895190238953
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5985673666000366
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5813148021697998
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.556067943572998
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "category": "landmark_cases",
+      "query": "What did Heller v. District of Columbia decide about guns?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.8,
+      "response": "The Heller v. District of Columbia case decided that the Second Amendment protects an individual's right to possess a firearm, unconnected with service in a militia, for traditionally lawful purposes such as self-defense within the home. D.C.'s handgun ban was found to violate the Second Amendment [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.6991129517555237
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5072088837623596
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.49316295981407166
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.47583672404289246
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.44150301814079285
+        }
+      ]
+    },
+    {
+      "id": "q31",
+      "category": "amendments",
+      "query": "How are senators elected?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.8,
+      "response": "Senators are elected by the people of each state, as established by the Seventeenth Amendment, which states that the Senate shall be composed of two Senators from each State, elected by the people thereof, for six years [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.6552892923355103
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.547705888748169
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.49144673347473145
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.46554964780807495
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.45060884952545166
+        }
+      ]
+    },
+    {
+      "id": "q32",
+      "category": "landmark_cases",
+      "query": "What is same-sex marriage law?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 3,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "Same-sex marriage law is established by the ruling in Obergefell v. Hodges (2015), which holds that the Fourteenth Amendment requires states to license and recognize same-sex marriages. The decision affirms that the right to marry is a fundamental liberty under the Due Process Clause, and denying this right to same-sex couples violates both Due Process and Equal Protection. As a result, same-sex marriage is recognized as a constitutional right throughout the United States [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.673554539680481
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.3802931308746338
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.3674715757369995
+        }
+      ]
+    },
+    {
+      "id": "q33",
+      "category": "bill_of_rights",
+      "query": "What does the 8th Amendment prohibit?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": false,
+      "keyword_score": 0.0,
+      "response": "I don't have enough information in my corpus to answer this question.",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.5846765637397766
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5798578262329102
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5751553177833557
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5579069256782532
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5502106547355652
+        }
+      ]
+    },
+    {
+      "id": "q34",
+      "category": "constitution",
+      "query": "What is the Full Faith and Credit Clause?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 2,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "The Full Faith and Credit Clause is found in Article IV, Section 1 of the Constitution, which states that Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State [Doc 2 \u2014 Constitution].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.4663778245449066
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.4101141095161438
+        }
+      ]
+    },
+    {
+      "id": "q35",
+      "category": "landmark_cases",
+      "query": "Can the government prohibit flag burning?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 3,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "No, the government may not prohibit flag burning as it is protected symbolic speech under the First Amendment. This was established in Texas v. Johnson (1989), where the Court held that the government cannot prohibit the expression of an idea simply because society finds it disagreeable [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.6890164017677307
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.36409497261047363
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.3583322763442993
+        }
+      ]
+    },
+    {
+      "id": "q36",
+      "category": "constitution",
+      "query": "What is treason under the Constitution?",
+      "expected_doc": "Constitution",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "Treason against the United States shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort. No Person shall be convicted of Treason unless on the Testimony of two Witnesses to the same overt Act, or on Confession in open Court [Doc 1 \u2014 Constitution].",
+      "top_chunks": [
+        {
+          "doc": "Constitution",
+          "score": 0.6909716725349426
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5573468208312988
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.5516466498374939
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.49604567885398865
+        },
+        {
+          "doc": "Constitution",
+          "score": 0.4895074963569641
+        }
+      ]
+    },
+    {
+      "id": "q37",
+      "category": "amendments",
+      "query": "What is women's right to vote?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 4,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 1.0,
+      "response": "Women's right to vote is established by Amendment XIX, which states that the right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. Congress has the power to enforce this article by appropriate legislation [Doc 1 \u2014 Amendments].",
+      "top_chunks": [
+        {
+          "doc": "Amendments",
+          "score": 0.7072954177856445
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.5733829736709595
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.48195329308509827
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.45580384135246277
+        }
+      ]
+    },
+    {
+      "id": "q38",
+      "category": "landmark_cases",
+      "query": "What is affirmative action in college admissions?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 2,
+      "recalled": true,
+      "cited": false,
+      "keyword_score": 0.0,
+      "response": "I don't have enough information in my corpus to answer this question.",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.6120913624763489
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5927912592887878
+        }
+      ]
+    },
+    {
+      "id": "q39",
+      "category": "landmark_cases",
+      "query": "What is the prior restraint doctrine in press freedom?",
+      "expected_doc": "Landmark Cases",
+      "chunks_retrieved": 5,
+      "recalled": true,
+      "cited": true,
+      "keyword_score": 0.75,
+      "response": "The prior restraint doctrine in press freedom refers to the strong presumption against government censorship of the press before publication. This doctrine was highlighted in the case of New York Times Co. v. United States (1971), where the Court ruled that the government failed to justify prior restraint of the press, allowing newspapers to publish the classified Pentagon Papers without prior government censorship. The significance of this ruling is that freedom of the press protects the publication of government secrets unless there is a direct and immediate threat to national security [Doc 1 \u2014 Landmark Cases].",
+      "top_chunks": [
+        {
+          "doc": "Landmark Cases",
+          "score": 0.5743054747581482
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.4455716609954834
+        },
+        {
+          "doc": "Landmark Cases",
+          "score": 0.40006569027900696
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.3974740207195282
+        },
+        {
+          "doc": "Amendments",
+          "score": 0.3916151523590088
+        }
+      ]
+    },
+    {
+      "id": "q40",
+      "category": "amendments",
+      "query": "What is due process?",
+      "expected_doc": "Amendments",
+      "chunks_retrieved": 0,
+      "recalled": false,
+      "cited": false,
+      "keyword_score": 0.0,
+      "response": "[NO CHUNKS RETRIEVED]",
+      "top_chunks": []
+    }
+  ]
+}
